@@ -73,7 +73,7 @@ public class ConjuntoNumeros2 implements Cloneable {
 
 	@Override
 	public String toString() {
-		return "ConjuntoNumeros2 [celda=" + Arrays.toString(celda) + ", largo=" + largo + ", nombre=" + nombre + "]";
+		return "ConjuntoNumeros [celda=" + Arrays.toString(celda) + ", largo=" + largo + ", nombre=" + nombre + "]";
 	}
 	
 	
